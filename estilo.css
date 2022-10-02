@@ -4,7 +4,7 @@
 /* CORPO */
 body {
     font-family: 'Roboto', sans-serif;
-    width: 520px;
+    width: 580px;
     margin: auto;
     text-align: justify;
 }
@@ -14,7 +14,7 @@ body {
 nav {
     top: -20px;
     width: 300px;
-    margin: auto 130px auto auto;
+    margin: auto 150px auto auto;
 }
 
 nav ul#menu {
@@ -50,7 +50,7 @@ span {
 
 figure figcaption {
     font-size: 10px;
-    color: rgba(0, 3, 3, 0.2)
+    color: rgba(0, 3, 3, 0.4)
 }
 
 small#pre-titulo {
@@ -74,7 +74,7 @@ ul#lista-programas li {
 
 small#cite-autor {
     font-size: 10px;
-    color: rgba(0, 3, 3, 0.6)
+    color: rgba(0, 3, 3, 0.4)
     
 }
 
